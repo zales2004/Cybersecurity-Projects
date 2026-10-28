@@ -1,1 +1,1 @@
-test
+Repository layout and project notes are documented in PROJECT-INDEX.md.
