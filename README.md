@@ -1,3 +1,1 @@
-# Cybersecurity Projects
-
-Portfolio hub for cybersecurity work.
+This repository hosts a curated index of work.
