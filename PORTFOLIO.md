@@ -1,1 +1,0 @@
-This repository hosts a curated index of work.
