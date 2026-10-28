@@ -1,1 +1,1 @@
-Hello.
+See PROJECT-INDEX.md for the folder layout and project notes.
