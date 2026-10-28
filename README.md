@@ -1,1 +1,3 @@
-This repository hosts a curated index of work.
+# Cybersecurity Projects
+
+See PROJECT-INDEX.md for the directory structure and project notes.
